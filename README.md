@@ -30,4 +30,4 @@ I completed both my Bachelor's (2022) and Master's (2024) in Computer Engineerin
 [![Static Badge](https://img.shields.io/badge/Streamlit-page?logo=streamlit&logoColor=white&labelColor=%23FF4B4B&color=%23FF4B4B)](https://streamlit.io/)
 
 ## Affiliated With
-<img src="logos/istar.jpg" style="max-width:350px;">
+<img src="rgb_istar_description_en_main.jpg" style="max-width:350px;">
