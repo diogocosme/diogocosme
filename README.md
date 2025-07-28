@@ -28,3 +28,6 @@ I completed both my Bachelor's (2022) and Master's (2024) in Computer Engineerin
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 [![Static Badge](https://img.shields.io/badge/Streamlit-page?logo=streamlit&logoColor=white&labelColor=%23FF4B4B&color=%23FF4B4B)](https://streamlit.io/)
+
+## Affiliated With
+<img src="logos/istar.jpg" style="max-width:350px;">
